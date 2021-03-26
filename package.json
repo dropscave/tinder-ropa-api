@@ -1,0 +1,27 @@
+{
+  "name": "tinder-ropa-api",
+  "version": "1.0.0",
+  "description": "API para sistema de ropa tipo Tinder.",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dropscave/tinder-ropa-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dropscave/tinder-ropa-api/issues"
+  },
+  "homepage": "https://github.com/dropscave/tinder-ropa-api#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.0.0"
+  }
+}
