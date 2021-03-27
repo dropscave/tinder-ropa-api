@@ -30,8 +30,6 @@ Among the services that this api provides to its client, we can find the followi
 - Update
 - Elimination
 
-hr
-
 ## Tools
 
 ### Express
