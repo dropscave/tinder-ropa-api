@@ -1,27 +1,4 @@
-# Tinder for Clothes App
-
-## SCRUM ROLES
-
-### SCRUM MASTER
-
-Julian Antonio Candiani Velez
-
-### TEAM
-
-Student 3
-
-Skills:
-- Javascript
-- Nodejs (Basic Express)
-
-Student 4
-
-Skills:
-- Javascript
-- Node.js Advanced (Express, Socket.io and JSONWebToken)
-
-
-## Services
+# Tinder for Clothes API
 
 The purpose of this api is to serve the client application "Tinder for clothes".
 
@@ -51,7 +28,25 @@ Among the services that this api provides to its client, we can find the followi
 - Update
 - Elimination
 
-hr
+## SCRUM ROLES
+
+### SCRUM MASTER
+
+Julian Antonio Candiani Velez
+
+### TEAM
+
+Student 3
+
+Skills:
+- Javascript
+- Nodejs (Basic Express)
+
+Student 4
+
+Skills:
+- Javascript
+- Node.js Advanced (Express, Socket.io and JSONWebToken)
 
 ## Tools
 
